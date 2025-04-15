@@ -9,3 +9,5 @@ A text editor GITBASH
  2️⃣ Create a New GitHub Repository
  3️ Enable GitHub Pages
  4️⃣ Access Your Live Website
+
+https://phanindra4568.github.io/static-website/
